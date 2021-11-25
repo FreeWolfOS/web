@@ -1,6 +1,6 @@
-body {
- color:white;
- background-color:black;
- font-family: 'Source Sans Pro', sans-serif;
- font-size: larger;
+body
+{
+	background-image: url(oriental-tiles.png);
+	/* Background pattern from subtlepatterns.com */
+	margin: 0;
 }
